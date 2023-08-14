@@ -11,7 +11,8 @@
         "README.md",
         "gravity-jump.md",
         "choose-image.md",
-        "move-random.md"
+        "move-random.md",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -23,5 +24,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
