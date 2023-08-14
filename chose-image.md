@@ -109,5 +109,5 @@ b 5 5 5 5 1 1 5 5 b
 ```
 
 ```package
-simple-blocks=github:microsoft/arcade-tutorial-extensions/simple-blocks
+simple-blocks=github:jo108/ptx-simplyfied-blocks
 ```
