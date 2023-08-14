@@ -61,5 +61,5 @@ true
 ```
 
 ```package
-simple-blocks=github:microsoft/arcade-tutorial-extensions/simple-blocks
+simple-blocks=github:jo108/ptx-simplyfied-blocks 
 ```
